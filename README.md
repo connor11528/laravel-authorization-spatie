@@ -138,5 +138,10 @@ Other mehtods, as outlined in [the documentation](https://github.com/spatie/lara
 
 ```
 $ php artisan make:auth 
+$ php artisan migrate
 ```
+
+We're also going to change **app/Http/RegisterController.php** so that 
+
+
 
